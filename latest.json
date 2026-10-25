@@ -1,5 +1,6 @@
 {
-  "version": "1.5.0",
-  "download_url": "",
-  "notes": "Versão atual do ALR - APP."
+  "version": "1.6.0",
+  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.0/ALR-APP-Setup-1.6.0.exe",
+  "sha256": "46862cd54003906b94dde5c59192786ea0395557f7eb70d2cd0bb67ff1dead4f",
+  "notes": "Atualização pelo ALR - APP: download verificado e instalação iniciada após confirmação."
 }
