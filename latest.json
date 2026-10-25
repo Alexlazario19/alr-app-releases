@@ -1,6 +1,6 @@
 {
   "version": "1.6.1",
   "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.1/ALR-APP-Setup-1.6.1.exe",
-  "sha256": "0cacaf00da97a0a89a8d3e7acbf1be11b8be4ff8ac39d6135c582ecc58ab3cbf",
-  "notes": "ALR - APP 1.6.1: preferências de inicialização com o Windows, busca automática de atualizações e atualização simplificada com reabertura do app."
+  "sha256": "a12febb4c06efad753eb349c6fccb05360fcdf6c6af2c9700188ca43271a4910",
+  "notes": "ALR - APP 1.6.1: remoção de código legado sem uso, preferências de inicialização e atualizações automáticas."
 }
