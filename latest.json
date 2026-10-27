@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.2/ALR-APP-Setup-1.6.2.exe",
-  "sha256": "452b05a47bb298ad17a332700c042641786e5ab4bfbc1d9e1a79e60f3ef984d1",
-  "notes": "ALR System 1.6.2: novo logo do aplicativo; escolha do tema claro ou escuro durante a instalação; relatório em PDF atualizado com informações úteis para análise do computador."
+  "version": "1.6.3",
+  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.3/ALR-APP-Setup-1.6.3.exe",
+  "sha256": "0b0b23bf3027bd2ca5b9f4538fe06475444d44eb198064a3cfcbd4c904fbef9f",
+  "notes": "ALR System 1.6.3: abertura mais rápida com carregamento das abas sob demanda e atualizações de métricas limitadas às páginas visíveis."
 }
