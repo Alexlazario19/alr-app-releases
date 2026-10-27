@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.1/ALR-APP-Setup-1.6.1.exe",
-  "sha256": "a12febb4c06efad753eb349c6fccb05360fcdf6c6af2c9700188ca43271a4910",
-  "notes": "ALR - APP 1.6.1: remoção de código legado sem uso, preferências de inicialização e atualizações automáticas."
+  "version": "1.6.2",
+  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.2/ALR-APP-Setup-1.6.2.exe",
+  "sha256": "452b05a47bb298ad17a332700c042641786e5ab4bfbc1d9e1a79e60f3ef984d1",
+  "notes": "ALR System 1.6.2: novo logo do aplicativo; escolha do tema claro ou escuro durante a instalação; relatório em PDF atualizado com informações úteis para análise do computador."
 }
