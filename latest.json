@@ -1,6 +1,6 @@
 {
-  "version": "1.6.4",
-  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.4/ALR-APP-Setup-1.6.4.exe",
-  "sha256": "c35fa9e58a4a6f4fc68a4d0107c3bfbdabdf5fecc1e04ed8ba37a752ca05170c",
-  "notes": "ALR System 1.6.4: ordenação dos programas instalados por espaço, do menor para o maior ou do maior para o menor. Programas sem tamanho informado ficam no final da lista."
+  "version": "1.6.5",
+  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.5/ALR-APP-Setup-1.6.5.exe",
+  "sha256": "ae84a6dfcbb4e6fea6940adc6d1c02c2418a9e20c5f5d14112bf9656cb78c4e5",
+  "notes": "Melhorias na limpeza, apresentação de hardware, interface e atualização do ALR System."
 }
