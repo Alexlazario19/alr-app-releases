@@ -1,6 +1,6 @@
 {
-  "version": "1.6.5",
-  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.5/ALR-APP-Setup-1.6.5.exe",
-  "sha256": "ae84a6dfcbb4e6fea6940adc6d1c02c2418a9e20c5f5d14112bf9656cb78c4e5",
-  "notes": "Melhorias na limpeza, apresentação de hardware, interface e atualização do ALR System."
+  "version": "1.6.6",
+  "download_url": "https://github.com/Alexlazario19/alr-app-releases/releases/download/ALRAPP1.6.6/ALR-APP-Setup-1.6.6.exe",
+  "sha256": "b7084da57599e5037c54e0fd47ce6399dff8ff742502f4494cf593ce681334b3",
+  "notes": "Correção da exibição do ícone do FurMark 2 na aba Ferramentas."
 }
